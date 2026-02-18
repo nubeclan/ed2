@@ -8,7 +8,7 @@
 
 // main.js
 // Punto de entrada para la aplicación, aquí se ejecutan los algoritmos y se muestra la salida en pantalla
-import { LinkedList } from './linkedlist.js';
+import { LinkedList } from './lib/linkedlist.js';
 
 // Escribe mensajes en la "consola" de la página
 function logToScreen(message, kind = 'normal') {
