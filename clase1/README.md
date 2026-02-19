@@ -3,6 +3,8 @@
 **Asignatura:** Estructura de Datos II  
 **Unidad I:** Listas Enlazadas (Linked Lists)  
 **Lenguaje:** JavaScript (ES6 Modules)
+**IDE:** [VSCODE] (https://code.visualstudio.com/)
+**SERVER:** [LIVE SERVER] (https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 ---
 
