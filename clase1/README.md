@@ -119,3 +119,12 @@ El proyecto debe seguir la siguiente estructura de archivos (ES6 Modules):
 
 > **Nota:** Recuerda usar un servidor web como **Live Server, Xampp, Laragon, EasyPHP** u otro de tu preferencia para ejecutar el proyecto en el navegador sin errores de CORS.
 ```
+
+---
+
+## Autor
+Hecho por: Angel Céspedes Quiroz [#acq1305](https://bo.linkedin.com/in/acq1305)
+
+---
+
+¿Dudas? Abre un issue o contacta al autor.
